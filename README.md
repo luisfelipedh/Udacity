@@ -1,4 +1,4 @@
 Udacity
 =======
 
-Reposotoria para las tareas del curso de Udacity
+Repositorio para las tareas del curso de Udacity
